@@ -1,0 +1,40 @@
+.navb{
+    height: inherit;
+    color: aliceblue;
+    background: #0b2024;
+}
+
+.btn-close{
+    border: 1px solid rgb(221, 222, 228);
+}
+
+
+.navb .navbar-brand,
+.navb .nav-link {
+ color: white !important; 
+}
+
+/* In your Header.css file */
+.navbar-toggler-icon {
+    color: aliceblue; /* Remove the default Bootstrap icon */
+   }
+   
+   .navbar-toggler-icon::before,
+   .navbar-toggler-icon::after,
+   .navbar-toggler-icon {
+    background-color: transparent; 
+    color: aliceblue;/* Change the color of the icon bars */
+   }
+   
+   .custom-dropdown .dropdown-menu {
+    background-color: rgb(19, 19, 19); /* Change the background color of the dropdown menu */
+   }
+   
+   .custom-dropdown .dropdown-item {
+    color: white; /* Change the text color of the dropdown items to white */
+   }
+   
+   .custom-dropdown .dropdown-item:hover {
+    background-color: #333; /* Change the hover background color of the dropdown items */
+    color: white; /* Ensure the text color remains white on hover */
+   }

@@ -1,0 +1,12 @@
+.cat img{
+    height: 30vh;
+}
+
+.corimg{
+    margin-top: 10px;
+    border: 0px solid white;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-size: cover;
+}

@@ -1,0 +1,21 @@
+.mainhomediv{
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 60dvh;
+    border: 1px solid rgb(0, 0, 0);
+    background-image: url(../img/maindiv.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-top: 1.5em;
+    margin-top: 20px;
+    border-radius: 50px 50px 0px 0px;
+}
+
+h1{
+    color: aliceblue;
+}

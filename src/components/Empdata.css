@@ -1,0 +1,22 @@
+
+
+table{
+    border: 1px solid white;
+}
+
+tr{
+    gap:20px;
+    border: 1px solid white;
+}
+
+td{
+    width: 13em;
+    text-align: center;
+    color: aliceblue;
+}
+
+h1{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 1em;
+}
